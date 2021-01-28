@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/tonycastaneda/.zsh'
+let g:netrw_dirhist_7='/Users/tonycastaneda/Applications'
+let g:netrw_dirhist_6='/Users/tonycastaneda/Creative Cloud Files'
+let g:netrw_dirhist_5='/Users/tonycastaneda/.hyper_plugins/node_modules/color'
+let g:netrw_dirhist_4='/Users/tonycastaneda/.hyper_plugins/node_modules'
+let g:netrw_dirhist_3='/Users/tonycastaneda/.hyper_plugins'
+let g:netrw_dirhist_2='/Users/tonycastaneda/.hyper_plugins/local'
+let g:netrw_dirhist_1='/Users/tonycastaneda/.hyper_plugins'
